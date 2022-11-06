@@ -10,8 +10,8 @@ This project has been forked from deluan/contentful-migrate. Changes have been m
 changes:
 
 - Ability to create a contentful environment once the local migration file has been created. The contentful environment uses the same name as the
-  migration file.
-  
+  migration file
+
 Manage your Contentful schema by creating incremental scripted changes. This project is based on the ideas exposed
 in [Contentful's CMS as Code article](https://www.contentful.com/r/knowledgebase/cms-as-code/)
 
